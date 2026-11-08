@@ -46,7 +46,7 @@ lib/
 <img width="720" height="1600" alt="Screenshot_2026-11-08-00-45-56-81_b100401f5af6ae0b1c9d2d07f5b96043" src="https://github.com/user-attachments/assets/6215811a-1d58-42f5-8e35-c79ce09c8f5c" />
 <img width="720" height="1600" alt="Screenshot_2026-11-08-00-46-07-04_b100401f5af6ae0b1c9d2d07f5b96043" src="https://github.com/user-attachments/assets/b0447014-b4b8-4a91-b479-f27359ee07b8" />
 <img width="720" height="1600" alt="Screenshot_2026-11-08-00-46-13-93_b100401f5af6ae0b1c9d2d07f5b96043" src="https://github.com/user-attachments/assets/244be3d6-1b18-482f-9798-2b529b3e9b15" />
-<img width="720" height="1600" alt="Screenshot_2026-11-08-00-45-56-81_b100401f5af6ae0b1c9d2d07f5b96043" src="https://github.com/user-attachments/assets/bbe52fca-d810-48a4-8b26-0808fe08171d" />
+
 
 dark mode
 
